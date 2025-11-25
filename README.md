@@ -9,9 +9,7 @@ This repository contains two UI exercises to be implemented using Flutter and Wi
 
 ## Getting Started
 
-1. Fork this repository
-2. Clone your forked repository
-3. Install dependencies and run the project
+Fork this repository
 
 **Important:** Commit your progress regularly throughout the development process.
 
@@ -31,6 +29,7 @@ Implement a card component with:
 - Lottie animated icon
 - Primary text and subtext
 - A square with an animated border that fills based on slider percentage (0-100%)
+- Background glow that indicate that card is active.
 - Interactive slider control with KNOBS.
 
 ### Exercise 2: Scrollable Content Card with Bottom Blur
