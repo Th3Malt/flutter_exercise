@@ -8,4 +8,6 @@ class AppColors {
   static const lightModeTagline = Color(0xff808080);
   static const lightModeCardBackground = Color(0xffF1F1EF);
   static const activeCard = Color(0xff7E52F4);
+  static const light = Color(0xfffafafa);
+  static const masterColorA = Color(0xffe8e8e3);
 }
