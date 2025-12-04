@@ -1,2 +1,2 @@
-export 'app_widget.dart';
-export 'pages/pages_imports.dart';
+export 'exercise1/exercise1_imports.dart';
+export 'exercise2/exercise2_imports.dart';

@@ -15,13 +15,9 @@ class Exercise2 extends StatelessWidget {
       body: Center(
         child: Text(
           'Exercise 2',
-          style: TextStyle(
-            fontSize: 24,
-            fontWeight: FontWeight.bold,
-          ),
+          style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
         ),
       ),
     );
   }
 }
-

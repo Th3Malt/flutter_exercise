@@ -1,7 +1,4 @@
-import 'package:flutter/material.dart';
-
-import '../core/core_imports.dart';
-import 'features_imports.dart';
+import 'package:formfun_flutter_test/app_imports.dart';
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
@@ -9,7 +6,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: const InteractiveCardPage(),
+      home: InteractiveCardPage(),
       theme: ThemeData(fontFamily: FontFamily.AktivGrotesk.name),
     );
   }

@@ -1,6 +1,4 @@
-import 'package:flutter/material.dart';
-
-import 'features/features_imports.dart';
+import 'package:formfun_flutter_test/app_imports.dart';
 
 void main() {
   runApp(const MyApp());

@@ -1,3 +1,8 @@
 {
-  "dart.flutterSdkPath": ".fvm/versions/3.35.4"
+  "dart.flutterSdkPath": ".fvm/versions/3.38.3",
+  "discord.removeTimestamp": true,
+  "discord.removeRemoteRepository": true,
+  "discord.removeLowerDetails": true,
+  "discord.removeDetails": true,
+  "emmet.preferences": {}
 }
