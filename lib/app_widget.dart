@@ -6,7 +6,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: ScrollablePage(),
+      home: InteractiveCardPage(),
       theme: ThemeData(fontFamily: FontFamily.AktivGrotesk.name),
     );
   }
